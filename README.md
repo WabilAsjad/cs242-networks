@@ -1,7 +1,7 @@
-# Computer Networking CS242 Fall 2020 Problem Sets (Code only)
+# Computer Networking CS242 Fall 2020 UDP-Client
+* Authors: Wabil Asjad & Jenny Wang 
+* VERSION: v1.0 September 13, 2020 
 
-UDP-Client Authors: Wabil Asjad, Jenny Wang
-
-
-Single-Threaded HTTP Server Authors: Wabil Asjad, Jenny Wang
-
+# Computer Networking CS242 Fall 2020 UDP-Client HTTP Server Authors
+* Authors: Wabil Asjad & Jenny Wang 
+* VERSION: v1.0 September 2020 
